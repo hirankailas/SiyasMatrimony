@@ -1,0 +1,24 @@
+.contentalign{
+    text-align: center;
+    display: block;
+    /* border:dotted red; */
+}
+.textbox{
+    /* width: 18rem; */
+    display: inline-block;
+}
+.dropDownBox{
+    /* width: 400px; */
+    /* display: inline-block; */
+    text-align: left;
+}
+
+.input{
+    /* border: dotted green; */
+    position: relative;
+    left: 4%;
+}
+
+.li[_ngcontent-c4] :hover{
+    color: red;
+}
